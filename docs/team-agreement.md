@@ -42,14 +42,14 @@ first task: reserve a seat at an event.
 
 | Role | Member | Works in a pair with |
 | --- | --- | --- |
-| Releases and repository | TODO: name | TODO: name |
-| Content model and data | TODO: name | TODO: name |
-| The informational task | TODO: name | TODO: name |
-| The transactional task | TODO: name | TODO: name |
-| Design and accessibility | TODO: name | TODO: name |
-| Research and testing | TODO: name | TODO: name |
+| Releases and repository | Maud | Dré |
+| Content model and data | Thibault | Léon |
+| The informational task | Seppe | Maud |
+| The transactional task | Dré | Thibault |
+| Design and accessibility | Léon | Lars |
+| Research and testing | Lars | Seppe |
 
-- **How we share the roles:** TODO: "As the course's default for our team size", or how you do it differently, and why
+- **How we share the roles:** We divide the roles based on each team member's strengths and interests, ensuring that everyone contributes to the parts of the project where they can add the most value.
 
 ## How we communicate
 
@@ -64,10 +64,10 @@ chat.
 
 </td></tr></table>
 
-- **Where we talk:** TODO: a chat, a call, in person
-- **How quickly we answer a teammate:** TODO:
-- **When and how long we meet:** TODO:
-- **Where we write down what we agreed:** TODO:
+- **Where we talk:** A chat, in person
+- **How quickly we answer a teammate:** directly
+- **When and how long we meet:** in person minimum three hours and often when we have the course
+- **Where we write down what we agreed:** in the chat
 
 ## How we decide
 
@@ -81,10 +81,10 @@ team. If we cannot agree in one meeting, the role holder decides and writes a de
 
 </td></tr></table>
 
-- **What a role holder decides alone:** TODO:
-- **What needs the pair:** TODO:
-- **What needs the whole team:** TODO:
-- **How we settle a disagreement, and when we write a decision record:** TODO:
+- **What a role holder decides alone:** Each role holder can make decisions related to their own responsibilities.
+- **What needs the pair:** Decisions that affect a shared task are discussed and approved by both team members responsible for it.
+- **What needs the whole team:** Major project decisions, deadlines and important changes require agreement from the whole team.
+- **How we settle a disagreement, and when we write a decision record:** We discuss disagreements as a team and decide by majority vote.
 
 ## When a pull request is done
 
@@ -109,7 +109,7 @@ The author of a pull request merges it when all of this is true:
 
 We ask a teammate for a review when the author is not sure of a change.
 
-TODO: keep this list or change it, add your own rules, then delete this line.
+
 
 ## The AI note
 
@@ -129,7 +129,7 @@ Every pull request has the section *AI note: what I asked AI, and what I checked
 heading. The note is one or two lines and has two parts: *What I asked AI* and *What I checked*. When
 no AI tool was used, the note says "No AI used".
 
-- **How we check what an AI tool wrote before we use it:** TODO:
+- **How we check what an AI tool wrote before we use it:** We review, test, and verify al AI-generated content before adding it to the project.
 
 ## When someone stops contributing
 
@@ -145,10 +145,10 @@ and update this agreement.
 
 </td></tr></table>
 
-- **What counts as stopping for us:** TODO: for example no answer for a number of days, or a task left open after its date
-- **What the pair does first:** TODO:
-- **What the whole team does next:** TODO: with a new task and a date
-- **How we record what happened:** We change this agreement when we share the roles or the work again.
+- **What counts as stopping for us:** A team member is considered inactive if they do not respond for 5 days without notice or repeatedly miss agreed deadlines.
+- **What the pair does first:** The pair contacts the team member and tries to understand the reason for inactivity.
+- **What the whole team does next:** If there is no response after 3 more days, the team redistributes the unfinished tasks and sets new deadlines.
+- **How we record what happened:** We update this agreement and document the changes in the project repository.
 
 ## Agreed by
 
@@ -162,9 +162,9 @@ member. Update the agreement when a member leaves or joins, or when the roles ch
 
 </td></tr></table>
 
-| Member | Date |
-| --- | --- |
-| TODO: name | TODO: date |
-| TODO: name | TODO: date |
-| TODO: name | TODO: date |
-| TODO: name | TODO: date |
+| Lars | 26/11/2026 |
+| Leon | 26/11/2026 |
+| Thibault | 26/11/2026 |
+| Maud | 26/11/2026 |
+| Dré | 26/11/2026 |
+| Seppe | 26/11/2026 |
